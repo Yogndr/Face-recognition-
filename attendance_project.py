@@ -77,13 +77,3 @@ while True:
 
 
 
-# faceloc= face_recognition.face_locations(imgsrk)[0]
-# encodesrk= face_recognition.face_encodings(imgsrk)[0]
-# cv2.rectangle(imgsrk,(faceloc[3],faceloc[0]),(faceloc[1],faceloc[2]),(255,0,255),2)
-#
-# faceloctest= face_recognition.face_locations(imgtest)[0]
-# encodetest= face_recognition.face_encodings(imgtest)[0]
-# cv2.rectangle(imgtest,(faceloctest[3],faceloctest[0]),(faceloctest[1],faceloctest[2]),(255,0,255),2)
-#
-# results= face_recognition.compare_faces([encodesrk],encodetest)
-# faceDis = face_recognition.face_distance([encodesrk],encodetest)
