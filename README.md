@@ -24,7 +24,11 @@ face_recognition by Adam Geitgey
 
 ## Screenshots
 
+while face recognition
 ![face_recognition](https://user-images.githubusercontent.com/106022206/170853989-dffec88d-9f32-443f-9cdc-31ea1b1e39c7.png)
+
+excel sheet
+![attendance (1)](https://user-images.githubusercontent.com/106022206/170854016-724e1363-7d3b-4be9-9526-bfaaa8bfa5a7.png)
 
 
 
